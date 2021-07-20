@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-* We’ll be accepting input from the user.
+* Program will be accepting input from the user.
 * Options 1, 2, 3, 4 and 4 are valid.
 * If any other input is given, Invalid Input is displayed.
 * Functions addition(), subtraction(), multiplication() and average() evaluate respective operations and display the output. 
